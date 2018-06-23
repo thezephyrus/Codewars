@@ -6,3 +6,5 @@ Also, the solutions posted are not the only way to solve the problems and there 
 The solutions are part of the learning journey.
 
 Happy Coding :)
+
+![alt text](https://www.codewars.com/users/TheLilDev/badges/large)
