@@ -1,0 +1,1 @@
+select * from numbers order by random() limit 1000;
