@@ -1,0 +1,1 @@
+INSERT into participants (name, age, attending ) values ('Vinil',29,True);
