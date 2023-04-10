@@ -41,7 +41,6 @@ def smallest_repeated_substring(s):
             substring = s[i:i+length]
             if substring*(n//length) + substring[:n%length] == s:
                 return substring
-                break
             else:
                 continue
             break
