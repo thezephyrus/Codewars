@@ -58,7 +58,7 @@ def find_the_key(word,code):
 
 
 '''
-Then we iterate through all possible substring lengths from 1 to the length of s. 
+We iterate through all possible substring lengths from 1 to the length of s. 
 For each substring length, we iterate through all possible starting positions for that substring.
 We extract the substring using slicing and check if it can be repeated to form s. 
 We repeat the substring n//length times, and then add the remainder of n divided by length characters 
