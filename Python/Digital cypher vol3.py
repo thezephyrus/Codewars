@@ -42,9 +42,9 @@ def smallest_repeated_substring(s):
             if substring*(n//length) + substring[:n%length] == s:
                 return substring
                 break
-        else:
-            continue
-        break
+            else:
+                continue
+            break
 
 def find_the_key(word,code):
     alphabet_dict = {char: i+1 for i, char in enumerate('abcdefghijklmnopqrstuvwxyz')}
